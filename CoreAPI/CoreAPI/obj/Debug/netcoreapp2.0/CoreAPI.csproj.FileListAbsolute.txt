@@ -9,3 +9,14 @@ F:\Apps\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.0\CoreAPI.AssemblyInfoInputs.cache
 F:\Apps\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.0\CoreAPI.AssemblyInfo.cs
 F:\Apps\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.0\CoreAPI.dll
 F:\Apps\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.0\CoreAPI.pdb
+F:\GitRepo\CoreAPI\CoreAPI\bin\Debug\netcoreapp2.0\CoreAPI.deps.json
+F:\GitRepo\CoreAPI\CoreAPI\bin\Debug\netcoreapp2.0\CoreAPI.runtimeconfig.json
+F:\GitRepo\CoreAPI\CoreAPI\bin\Debug\netcoreapp2.0\CoreAPI.runtimeconfig.dev.json
+F:\GitRepo\CoreAPI\CoreAPI\bin\Debug\netcoreapp2.0\CoreAPI.dll
+F:\GitRepo\CoreAPI\CoreAPI\bin\Debug\netcoreapp2.0\CoreAPI.pdb
+F:\GitRepo\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.0\CoreAPI.csprojResolveAssemblyReference.cache
+F:\GitRepo\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.0\CoreAPI.csproj.CoreCompileInputs.cache
+F:\GitRepo\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.0\CoreAPI.AssemblyInfoInputs.cache
+F:\GitRepo\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.0\CoreAPI.AssemblyInfo.cs
+F:\GitRepo\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.0\CoreAPI.dll
+F:\GitRepo\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.0\CoreAPI.pdb
